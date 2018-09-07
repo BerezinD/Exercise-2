@@ -1,0 +1,19 @@
+<resources>
+	<string name="app_name">Exercise #2</string>
+	<string name="text_like_button">TEXT LIKE BUTTON</string>
+	<string name="long_staff">Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque
+		laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae
+		dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia
+		consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem
+		ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut
+		labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam
+		corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit,
+		qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo
+		voluptas nulla pariatur?
+	</string>
+	<string name="magic_images"><![CDATA[<--- magic images :)]]></string>
+	<string name="my_super_title">My Super Title</string>
+	<string name="first_image">first_image</string>
+	<string name="divider">divider</string>
+	<string name="small_image">small_image</string>
+</resources>
